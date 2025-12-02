@@ -18,11 +18,7 @@
 # :globe_with_meridians: Socials
 <div align="left">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/bri88888)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/Phenomenal.DGHT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeyad-ali-ba953336b)
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/29980503)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dght839@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinaamer488@gmail.com)
 
 </div>
 
